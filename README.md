@@ -1,4 +1,6 @@
-### Hi there! 👋 I'm Tomasz and I'm a full-time Software Engineer 👨‍💻 working remotely since 2016 🚀
+![Header](./your-header-image-name.png)
+
+### Hello there! 👋 I'm Tomasz and I'm a full-time Software Engineer 👨‍💻 working remotely since 2016 🚀
 - 🌱 I’m currently learning Python for one of my personal projects
 - ⚡ Fun fact: I prefer to use tabs over spaces
 
