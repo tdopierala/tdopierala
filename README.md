@@ -3,7 +3,7 @@
 ### Hello there! I'm Tomasz 👋
 - 🔭 I'm a full-time Software Developer with over 10 years of experience, working remotely since 2016 🚀
 - 💬 You can ask me about: JavaScript, TypeScript, PHP, Bash, Linux
-- 📫 How to reach me at Twitter ([@t_dopierala](https://twitter.com/t_dopierala)), and [LinkedIn](https://www.linkedin.com/in/dopierala/). 
+- 📫 You can reach me at Twitter ([@t_dopierala](https://twitter.com/t_dopierala)), and [LinkedIn](https://www.linkedin.com/in/dopierala/). 
 - 🌱 I’m currently learning Python for one of my personal projects
 - ⚡ Fun fact: I prefer to use tabs over spaces
 
