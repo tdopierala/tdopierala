@@ -31,7 +31,7 @@
 <a href="https://twitter.com/t_dopierala" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="skype:tdopierala?chat" target="_blank">
+<a href="https://join.skype.com/invite/GzcAWRfm7VH0" target="_blank">
 <img src=https://img.shields.io/badge/skype-%2300AFF0.svg?style=for-the-badge&logo=skype&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/tdopierala" target="_blank">
